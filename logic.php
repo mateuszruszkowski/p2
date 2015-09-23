@@ -24,7 +24,7 @@ $x = 0;
 $matches = Array();
 $words = Array();
 
-for($i=1;$i<30;$i+=2){  // 30
+for($i=1;$i<10;$i+=2){  // not 30 because it slow page load
 	
 	if( $i<10 ){	$no_page = '0'.$i;	}else{ $no_page = $i; }
 	if( ($i+1) <10 ){ $no_page_plus1 = '0'.($i+1); }else{ $no_page_plus1 = $i+1; }
