@@ -4,7 +4,7 @@
 $wn  = isset($_GET['words_number']) ? $_GET['words_number']  : '5';
 $num = isset($_GET['numbers']) ? $_GET['numbers'] : '0';
 $sym = isset($_GET['symbols']) ? $_GET['symbols'] : '0';
-$ml  = isset($_GET['max_length']) ? $_GET['max_length'] : '20';
+$ml  = isset($_GET['max_length']) ? $_GET['max_length'] : '30';
 $sep = isset($_GET['separator']) ? $_GET['separator'] : '-';
 $case = isset($_GET['cases']) ? $_GET['cases'] : 0;
 
@@ -24,7 +24,7 @@ $x = 0;
 $matches = Array();
 $words = Array();
 
-for($i=1;$i<2;$i+=2){  // 30
+for($i=1;$i<3;$i+=2){  // 30
 	
 	if( $i<10 ){	$no_page = '0'.$i;	}else{ $no_page = $i; }
 	if( ($i+1) <10 ){ $no_page_plus1 = '0'.($i+1); }else{ $no_page_plus1 = $i+1; }
@@ -88,16 +88,19 @@ if (  $valid != 1 ) {
 			for($i=0; $i<($sym-$wn);$i++){ $passArray[$wn-1].= $specials_chars[ rand(0, 7)]; }
 		}
 
-		
+		$passString = implode($sep, $passArray);
+
 		# check if password length is smaller than max length, if we find suited password set $x as 10 else end loop as a 5
 		if( strlen($passString) <= $ml) { 
-			$passString = implode($sep, $passArray);
 			$x = 10; 
 		}else{
     		$x++;	
 		}
 	    
-	} 
+	}
+	if($x!=10) {
+		$error = "Sorry, we can't find good words to generate password shorter than max length";
+	}
 
 }
 

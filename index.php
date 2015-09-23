@@ -73,7 +73,7 @@ ini_set("display_errors", 1);
 		        <div class="form-group">
 
 		        	<label for="max_length" class="col-sm-2">Max length</label>
-					<input maxlength=2 type="text" name="max_length" id="max_length" value="<?=isset($_GET['max_length']) ? $_GET['max_length'] : '20';?>"> Default 20
+					<input maxlength=2 type="text" name="max_length" id="max_length" value="<?=isset($_GET['max_length']) ? $_GET['max_length'] : '30';?>"> Default 30
 
 				</div>
 
