@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randValue"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"fe",
+				"fetchedRow"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"tit",
+				"titleInput"
+			],
+			[
+				"focus",
+				"focusOut"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"main",
+				"mainChat"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"return",
+				"return_array"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"security",
+				"securitygroup_id"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"rec",
+				"rec2"
+			],
+			[
+				"relate",
+				"related_id"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"temp",
+				"temp_data"
+			],
+			[
+				"osa",
+				"osoba_id"
+			],
+			[
+				"secu",
+				"securitygroups_cstm"
+			],
+			[
+				"securi",
+				"securitygroup_id"
+			],
+			[
+				"departme",
+				"department_id"
+			],
+			[
+				"oso",
+				"osoba_id"
+			],
+			[
+				"depatment",
+				"department_id"
+			],
+			[
+				"tem",
+				"temp_l_p"
+			],
+			[
+				"fee",
+				"fees_porposal_number"
+			],
+			[
+				"substr",
+				"substr"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"hash",
+				"hashtagsArray"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"projec",
+				"project_data"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"unpro",
+				"unproject"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"scr",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2735,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/p2"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/p2/logic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/UZ_Picnic/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/ep_send_mail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/dailyQuestions.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/HD_Holiday/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/HD_Holiday/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/HD_Holiday/logic_hooks.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/HD_Holiday/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/HD_Holiday/views/view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/ListView/ListViewData.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/views/view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/Dashlets/Next7TasksDashlet/Next7TasksDashlet.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/requests.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/mailtotask.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/SugarSecurity.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/data/SugarBean.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/reesco_send_mail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/jssource/src_files/themes/Sugar5/js/style.js",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/themes/Suite7/tpls/_headerModuleList.tpl",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/generic/SugarWidgets/SugarWidgetFieldurl.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/include/generic/SugarWidgets/SugarWidgetFieldurl.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/Smarty/plugins/function.sugar_link.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AC_Notifications/Dashlets/AC_NotificationsDashlet/AC_NotificationsDashlet.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/Dashlets/NotificationTasksDashlet/NotificationTasksDashlet.data.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/Dashlets/DashletGeneric.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Administration/RebuildExpressionPlugins.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/removeme.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Administration/repairUniSearch.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Administration/RebuildRelationship.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/requests2.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/views/back20.08.view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/views/backup20.08.view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/sugarpdf/sugarpdf.opis.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/sugarcrm.log",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/customSubpanels.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Project/Ext/Layoutdefs/fa_invoices_project_Project.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Project/Ext/Layoutdefs/project_ag_agreement_1_Project.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/FA_invoices/metadata/subpanels/default.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/themes/Suite7/tpls/footer.tpl",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Contacts/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/workflow.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Project/Ext/Layoutdefs/pp_closed_tasks.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_Invoices/metadata/subpaneldefs.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_Invoices/AOS_Invoices_sugar.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_Invoices/AOS_Invoices.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Versions/InstallDefaultVersions.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/index.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/image.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/.htaccess",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Contacts/Ext/Vardefs/contacts_aop_case_updates.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/metadata/contacts_casesMetaData.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/Zend/Gdata/Contacts.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Contacts/Contact.js",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/controller/Controller.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/config.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/config_override.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/rrmailer/docs/Callback_function_notes.txt",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOP_Case_Updates/Case_Updates.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOP_Case_Updates/AOP_Case_Updates_sugar.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/customlogic_back.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/application/Ext/LogicHooks/logichooks.ext.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Accounts/Ext/Layoutdefs/_overrideAccount_subpanel_bdg_buildings_accounts_2.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/relationships/layoutdefs/bdg_buildings_accounts_1_Accounts.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Users/Login.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/ProjectTask/Ext/Vardefs/sugarfield_tasksupload1_c.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Tasks/TasksQuickCreate.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/Tasks/Task.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/rrmailer/examples/styles/shThemeAppleScript.css",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_PDF_Templates/PDF_Lib/classes/ttfontsuni_analysis.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/ttt.html",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/FA_invoices/Ext/Vardefs/sugarfield_invoice_desc_c.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/mobile.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/MVC/View/SugarView.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/przeniesie baz danych na zebox",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/FA_invoices/Ext/Vardefs/sugarfield_fa_invoices_id1_c.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/sugarcrm_9.log",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/updatePhoto.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/sftp-config.json",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/.idea/dataSources.ids",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/.idea/dataSources.local.xml",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/.idea/dataSources.xml",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/cache/themes/Suite7/css/style.css",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/Extension/modules/Project/Ext/Menus/CustomMenu.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Accounts/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/bdg_Buildings/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/bdg_Buildings/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/bdg_Buildings/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/FA_invoices/customlogic_back2.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/fp_FeesProposals/views/view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Home/index.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Notes/customlogic.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/themes/Suite7/css/style.css",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/reesco_send_mail_aw.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/mobile2.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/install.log",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/index.html.XX",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/wct_ganttchart/dhtmlxgantt.js",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_PDF_Templates/PDF_Lib/ttfontdata/dejavusanscondensedB.mtx.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/modules/AOS_PDF_Templates/PDF_Lib/ttfontdata/dejavusanscondensed.mtx.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/SugarFields/Fields/Fileupload/SugarFieldFileupload.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/include/SugarFields/Fields/Fileupload/SugarFieldFileupload.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/include/include/ListView/ListViewData.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/backup_view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/backup_view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/views/backup1201_view.list.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Tasks/Dashlets/PNext7TasksDashlet/PNext7TasksDashlet.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Notes/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/ProjectTask/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/views/view.edit.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/views/view.detail.php.bak-ashish-07Mar2015",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/custom/modules/Project/Ext/Menus/menu.ext.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable-kopia/sugarcrm_1.log",
+		"/Users/grucha/Desktop/config.php",
+		"/Users/grucha/Documents/PhpstormProjects/104 ATS INSTALL/js/jquery.easing.1.3.js",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/modules/MailMerge/modules_array.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/custom/modules/ProjectTask/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/requests.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/custom/modules/fp_FeesProposals/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/custom/modules/Project/views/view.detail.php",
+		"/Users/grucha/Documents/PhpstormProjects/RMS stable/custom/modules/fp_FeesProposals/views/view.edit.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count",
+			"$error =",
+			"$error",
+			"numbers",
+			"words_number",
+			"'",
+			"$module",
+			"fetchBy",
+			"fetchByArra",
+			"fetchBy",
+			"$notify",
+			"getBean",
+			"fetch",
+			"$db->",
+			"notif",
+			"bean",
+			"generate id",
+			"generate",
+			"ac_notifica",
+			"update ac",
+			"raw",
+			"id",
+			"facto",
+			"bean",
+			"notification",
+			"addUser",
+			"addCustomChatUser",
+			"qPodpowiedziList",
+			"add user",
+			"fp_feesproposals",
+			"fp_FeesProposals",
+			"HD_Holidays",
+			"fp_FeesProposals",
+			"fp_feesproposals",
+			"fp_FeesProposals",
+			"fp_feesproposals",
+			"fp_FeesProposals",
+			"fp_feesproposals",
+			"fp_FeesProposals",
+			"fp_feesproposals",
+			"fp_FeesProposals",
+			"proje",
+			"die()",
+			"save",
+			"function save",
+			"function bean::save",
+			"create_guid();",
+			"->save(",
+			"cos nie",
+			"$focus->assigned_user_id",
+			"przypisane do",
+			"assign",
+			"die",
+			"span>",
+			"data-module-active",
+			"openchat",
+			"data-module",
+			"deleteUserFromChat",
+			"qPodpowiedziList",
+			"target=\"_blank\"",
+			"attr(\"target\"",
+			"target",
+			"notCurrentTabLeft",
+			"target",
+			"blank",
+			"notCurrentTab",
+			"target=\"_blank\"",
+			"$mail->send",
+			"send",
+			"user",
+			"<a",
+			"link",
+			"<a",
+			"target",
+			"sugar_link",
+			"target",
+			"sugar_link",
+			"function sugar_link",
+			"sugar_link",
+			"target",
+			"sugar_link",
+			"currentTabLeft",
+			"data_od",
+			"data",
+			"'",
+			"invoice",
+			"'projec",
+			"notif",
+			"ac_noti",
+			"60%",
+			"$chooser->args",
+			"6",
+			"choo",
+			"6",
+			"addChatButton",
+			"getchat",
+			"post",
+			"save",
+			"pheader",
+			"titleinp",
+			"moduleChatContainer.append",
+			"38",
+			"qPodpowiedziList",
+			"38",
+			"13",
+			"13'",
+			"13\"",
+			"getAll",
+			"all",
+			".customChat .chatContent",
+			"invitedpeo",
+			"13",
+			"invite",
+			"customtit",
+			"13",
+			"delete",
+			"quickdelete",
+			"mainchatcontain",
+			"post_id",
+			"class=\"'+item.chat_id+' post_right\" ",
+			"getall",
+			"getuser",
+			"inp",
+			"custom",
+			"customTitleInp",
+			"customChatContent",
+			"repla",
+			"adduser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$notif",
+			"jt5.id=bdg_buildings_id_c AND jt5.deleted=0 ",
+			"jt6.name!='' THEN concat(jt6.name,",
+			"jt7.name!='' THEN concat('FEE PROP\" . \"\\r\\n\" . \"', jt7.name,'|',tasks.parent_id)",
+			"jt7.id=tasks.parent_id",
+			"jt7.id=jtl7.fp_feesproposal",
+			"reescost_rms",
+			"rms.reesco.pl",
+			"NULL as start_only_date_c, NULL as end_only_date_c, concat(project.name,\"|\",project_id),",
+			"jt8",
+			"reescost_rms4",
+			"rms4.reesco.pl",
+			"rms.reesco.pl",
+			"reescost_rms4",
+			"rms4.reesco.pl",
+			"font-family: 'Lato', sans-serif;",
+			"font-family: 'Lato', sans-serif",
+			"font-family: 'Lato', sans-serif;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 534.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "p2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"projectlist.",
+				"custom/modules/Project/views/view.list.php"
+			],
+			[
+				"mailto",
+				"mailtotask.php"
+			],
+			[
+				"function.sugar_link.php",
+				"include/Smarty/plugins/function.sugar_link.php"
+			],
+			[
+				"invoicecustom",
+				"custom/modules/FA_invoices/customlogic.php"
+			],
+			[
+				"taskview",
+				"custom/modules/Tasks/views/view.list.php"
+			],
+			[
+				"request",
+				"requests.php"
+			],
+			[
+				"invoicesubp",
+				"modules/FA_invoices/metadata/subpanels/default.php"
+			],
+			[
+				"contactscustom",
+				"custom/modules/Contacts/customlogic.php"
+			],
+			[
+				"taskscustom",
+				"custom/modules/Tasks/customlogic.php"
+			],
+			[
+				"include/mvc/view/sugarview.php",
+				"include/MVC/View/SugarView.php"
+			],
+			[
+				"invoicescustom",
+				"custom/modules/FA_invoices/customlogic.php"
+			],
+			[
+				"entrypoint",
+				"custom/Extension/application/Ext/EntryPointRegistry/mailtotask.php"
+			],
+			[
+				"entry",
+				"include/entryPoint.php"
+			],
+			[
+				"invoview.edit.php",
+				"custom/modules/FA_invoices/views/view.edit.php"
+			],
+			[
+				"forproje",
+				"modules/ProjectTask/metadata/subpanels/ForProject.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 620.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
