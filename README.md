@@ -1,7 +1,7 @@
 # Project 2 xkcd Password Generator
 
 ## Live URL
-<http://p2.mruszkowski.pl>
+<http://p2.mruszkowski.me>
 
 ## Description
 This Web App generates random passwords which are really difficult to break.
